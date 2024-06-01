@@ -1,2 +1,2 @@
 # machine-learning
-Criado especificamente para adicionar os exercícios do curso de Machine Learning da DIO.
+Criado para conter Exercicios de Machine Learning do Pos em Ciência de Dados do Puc-Minas.
